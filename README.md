@@ -2,9 +2,6 @@
                 
 # Hello there
 
-<div align='center'>
-	<img src='file:///C:/Users/Andr%C3%A9%20Lucas/OneDrive/Imagens/Dev%20Capa.jpg' width=50%, title='cover photo', alt='cover photo'>
-</div>
 
 I am André Lucas, a 24 year old Programação Full Stack JS PRO student from OneBitCode, Brazil.
 
