@@ -1,6 +1,6 @@
 ### Olá eu sou o André Lucas 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrélucasr97/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrélucas97/)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrelucasr97/)
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelucasr97&show_icons=true&theme=tokyonight)
